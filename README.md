@@ -1,6 +1,8 @@
 # Intelligent Control Techniques for Robot Manipulators.
 **An analysis of different intelligent control techniques (evolutionary alg., reinf. learn., neural networks) applied to robot manipulator.**
 
+Here you can find the blogposts describing this work: https://medium.com/towards-data-science/making-a-robot-learn-of-to-move-intro-2bcf3c3330df.
+
 **WORK IN PROGRESS**
 
 Work by **Norman Di Palo** and **Tiziano Guadagnino**.
